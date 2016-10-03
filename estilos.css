@@ -1,0 +1,186 @@
+html { 
+	height: 96%;
+	width: 96%; 
+	background-color: #f2f2f2;
+}
+
+body { height: 100%;
+}
+
+#portada {
+	height: 100% ;
+	width: 100% ;
+	background-color: #f2f2f2;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#portada button{
+	height: 100%;
+    width: 100%;
+    border: none;
+}
+
+#portada img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
+#contenedor {
+	height: 98% ;
+	width: 100% ;
+	background-color: #f2f2f2;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#contenedor button{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+#cabecera {
+	height: 9%;
+	background-color: transparent;
+	margin: 5px;
+	font-size: 2em;
+	color:#330039;
+}
+#cabecera img{
+	height: 100%;
+	object-fit: contain;
+}
+
+#contenidobtn {
+  height: 79%;
+  width: 64%;
+  background-color: transparent;
+  margin:auto;
+  
+}
+
+#contenido {
+  height: 80%;
+  width: 99%;
+  background-color: transparent;
+  margin:auto;
+  
+}
+
+
+
+#pie {
+  clear: both;
+  height: 9%;
+  background-color: transparent;
+  margin: 5px;
+}
+
+#pie button{
+	height: 75%;
+	width: 10%;
+	background-color: transparent;
+	border: none;
+}
+
+#pie img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+#otro {
+	border-style: groove;
+}
+
+
+.botoncuadruple{
+	height: 50%;
+    width: 50%;
+    background-color: transparent;
+    float: left;
+}
+
+.botoncuadruple button{
+	height: 100%;
+    width: 100%;
+    border: none;
+}
+.botoncuadruple img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
+.botonblanco{
+	height: 50%;
+    width: 50%;
+    background-color: transparent;
+    float: left;
+}
+
+.botonblanco button{
+	height: 100%;
+    width: 100%;
+    border: none;
+}
+.botonblanco img {
+    height: 100%;
+    width: 99%;
+    object-fit: fill;
+}
+
+#btnA{
+	background-color:#e4f2db ;
+}
+#btnB{
+	background-color:#ffefcb ;
+}
+#btnC{
+	background-color:#f3f3f5 ;
+}
+#btnD{
+	background-color:#f2f2f2 ;
+}
+
+.imprimir {
+	height: 100%;
+    width: 90%;
+    background-color: transparent;
+    margin: auto;
+}
+
+.imprimir img{
+	height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.imprimir button{
+	border: none ;
+}
+
+.botondoble{
+	height: 23%;
+    width: 51%;
+    margin-top: 5%;
+    background-color: transparent;
+}
+
+.botondoble button{
+	height: 100%;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+}
+.botondoble img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
+.btnmenu {
+	border: auto ;
+}
